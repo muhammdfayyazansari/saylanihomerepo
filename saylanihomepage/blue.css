@@ -1,0 +1,211 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+}
+.padding{
+    background-color: blue;
+    color: white;
+    padding: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.family{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 400%;
+}
+.blue{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.whatwearedoing{
+    margin: 20px 0px 0px 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 300%;
+    text-align: center;
+    letter-spacing: -2px;
+   
+}
+.welfare{
+   margin-top: 30px;
+   padding: 30px 0px;
+   box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.10);
+   
+}
+.online-sadqah{
+    
+    padding:0px 15px;
+    display: inline-block;
+    color: #666666;
+    
+    background-color: #fff;
+   
+}
+.banner{
+    height: 175px;
+    padding-top: 20px;
+    background-color: #fff;
+    margin-bottom: 30px ;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.25);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+.banner h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #316Dc3;
+    letter-spacing: -1;
+    font-weight: bold;
+}
+.banner img{
+    background-color: none;
+}
+.mainflex{
+    margin-top:30px ;
+    margin-bottom: 20px;
+
+}
+.mainflex h2{
+    letter-spacing: none;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+} 
+.mainflex h3{
+    letter-spacing: none;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+} .mainflex h4 {
+    letter-spacing: none;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+} .mainflex h5{
+    letter-spacing: none;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+} 
+.mainflexrow{
+    margin-top: 20px;
+}
+
+.flex{
+margin: 15px 0px;
+padding: 15px 10px ;
+background-color:rgba(0, 0, 0, 0.10); ;
+letter-spacing: -1;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+display: flex;
+justify-content: flex-start;
+align-items: center;
+}
+.flex img{
+    margin-right: 20px;
+}
+.flex div{
+    padding: 0px 30px 0px 0px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    /* background-color: purple; */
+
+}
+
+.lastrightdiv{
+    margin-top: 5px;
+    padding-top: 0px;
+    color: #000;
+}
+.lastrightdiv span{
+    color: blue;
+}
+.lastrightdiv marquee{
+    color: #000;
+    text-align: justify;
+}
+.lastimagegallery{
+    /* width: 100%; */
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+
+}
+.sub-imagegallery{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+}
+.lastimagegallery div img{
+   margin: 10px 1px;
+   display: inline-block;
+    width: 220px;
+    height: 150px;
+}
+.bahadurabad{
+    background-color: #444;
+    color: #fff;
+    padding: 20px 0px;
+    
+}
+.headoffice {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* padding: 20px ; */
+    font-size: large;
+}
+.bahadurabad ul{
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bahadurabad p{
+    font-size: large;
+}
+.bahadurabad ul li{
+    padding: 5px 0px;
+    
+}
+.headoffice ul i{
+    padding-left: 5px;
+    color: green;
+    font-size: large;
+}
+.connect{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.connect ul li{
+display: inline-block;
+color: #fff;
+background-color: blue;
+border-radius: 50%;
+margin: 3px;
+padding: 0px 5px;
+}
+.connect ul li i {
+    padding: 10px;
+    color: #fff;
+    font-size: larger;
+}
+.connect ul li:hover{
+    border: black solid 2px;
+    color: #fff;
+}
+.lastcopyright{
+    background-color: #316Dc3;
+}
+.copyright{
+    margin: 20px 0px 0px 0px;
+    background-color: #316Dc3;
+    color: #fff;
+}

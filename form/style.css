@@ -1,0 +1,24 @@
+
+.maindiv{
+    position:absolute;
+    top: auto;
+    width: 99%;
+}
+
+.heading{
+    color: blueviolet;
+   text-decoration: underline;
+   
+} 
+.current{
+    color: blueviolet;
+}
+.form{
+    position: relative;
+    width: 100%;
+    background-color: blueviolet;
+    color: #fff;
+}
+.thank{
+    color: rgb(4, 184, 4);
+}
